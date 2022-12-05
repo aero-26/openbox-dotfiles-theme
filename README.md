@@ -2,10 +2,10 @@
 1. openbox
 2. obconf
 
-# To Apply make this your config
+# To apply this config
 copy openbox folder to **~/.config**.
 
-# To Apply Recommended Openbox theme
+# To apply recommended Openbox theme
 copy Neon_Knights_Blue folder to **~/.themes**.
 use obconf to apply the theme
 
